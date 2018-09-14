@@ -14,29 +14,6 @@ function removeFromPlaylist(playlist, artistName) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*var playlist = { Jawbox: "Savory" }
 
 function updatePlaylist(playlist, artistName, songTitle) {
