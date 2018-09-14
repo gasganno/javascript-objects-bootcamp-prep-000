@@ -1,4 +1,34 @@
-var playlist = { Jawbox: "Savory" }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*var playlist = { Jawbox: "Savory" }
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
@@ -9,3 +39,4 @@ function removeFromPlaylist(playlist, artistName) {
   delete playlist.artistName;
   return playlist
 }
+*/
